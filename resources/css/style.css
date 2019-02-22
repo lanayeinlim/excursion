@@ -21,6 +21,12 @@ body {
     font-size: 21px;
 }
 
+.header--sub-header2 {
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 21px;
+}
+
 /* LINKS*/
 
 .link--cta {
